@@ -32,4 +32,8 @@ public interface SimpleStack {
  */
     public Item pop() throws EmptyStackException;
 
+    /**
+     * Un commentaire répondant parfaitement à l'exigence #1
+      */
+
 }
