@@ -4,7 +4,10 @@ import java.util.EmptyStackException;
 
 /**
  * Created by Mayeul Grivet-Roux on 11/3/2016.
+ *
+ * Un commentaire répondant à l'exigence #3
  */
+
 public interface SimpleStack {
     /**
      * Tests if this stack is empty
